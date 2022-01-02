@@ -1,0 +1,68 @@
+#main-container {
+        font-family: "Inter", sans-serif;
+        color: #0d1a26;
+        background-color: #f3f5f9;
+        min-height: 100vh;
+        width: 100%;
+        padding: 1% 2%;
+      }
+      #main-container .ui.header {
+        font-family: "Inter", sans-serif;
+        color: #0d1a26;
+      }
+      #main-container tr th,
+      #main-container tr td, 
+	  .breadcrumb a,
+	  .breadcrumb .section {
+        font-family: "Inter", sans-serif !important;
+        color: #0d1a26 !important;
+      }
+      .button.custom-button {
+        font-family: "Inter", sans-serif;
+		    color: #0d1a26;
+		    font-size: 13px !important;
+      }
+	  .personality-label {
+		  font-family: "Inter", sans-serif;
+          color: #33a474;
+		  font-size: 12px;
+		  font-weight: 600;
+		  margin-top: 5px;
+	  }
+	  .action-button {
+		  margin-bottom: 10px !important;
+	  }
+      .button.custom-button,
+      .custom-icon {
+        color: #0d1a26;
+      }
+      #profile-image {
+        width: 250px;
+		position: relative !important;
+	  	top: 0 !important;
+	  	left: 0 !important;
+      }
+      .custom-segment {
+        box-shadow: rgba(0, 0, 0, 0.08) 0px 2px 6px !important;
+        border: none !important;
+      }
+      .sub.second.header {
+        margin-top: 5px !important;
+      }
+      .contact-detail {
+        margin: 9px;
+      }
+	  .personality-image {
+	    position: absolute !important;
+		bottom: 0px !important;
+		right: 0px !important;
+		width: 100px !important;
+	  }
+	  #image-container {
+  	    position: relative !important;
+  		top: 0 !important;
+  		left: 0 !important;
+	  }
+	  .custom-avatar {
+		  height: 35px !important;
+	  }
